@@ -1,12 +1,10 @@
 <?php
 /*****************************************************************
-Created :  2017-02-08
-Author : Mr. Khwanchai Kaewyos (LookHin)
-E-mail : khwanchai@gmail.com
-Website : https://www.unzeen.com
-Facebook : https://www.facebook.com/LookHin
-Source Code On Github : https://github.com/LookHin/instagram-photo-video-upload-api
-Rewrite Code From : https://github.com/mgp25/Instagram-API
+Created :  2019-02-10
+Author : Ahmad Saugi (LookHin)
+E-mail : ahmadsaugigis@gmail.com
+Website : https://www.zuramai.net
+Facebook : https://www.facebook.com/ahmadsaugi.gis
 *****************************************************************/
 
 class InstagramUpload{
