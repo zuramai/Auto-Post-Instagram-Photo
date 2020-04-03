@@ -8,14 +8,14 @@ Facebook : https://www.facebook.com/ahmadsaugi.gis
 *****************************************************************/
 include_once("instagram-photo-video-upload-api.class.php");
 
-$username = ''; // ISI USERNAME MU
-$password = ''; // ISI PASSWORD MU
-$nama_foto = 'square-image.jpg';
-$caption = 'Halo'; // ISI CAPTION MU
+$username = ''; // YOUR INSTAGRAM USERNAME
+$password = ''; // YOUR INSTAGRAM PASSWORD
+$photo_name = 'square-image.jpg';
+$caption = 'Halo'; // YOUR CAPTION
 
 $obj = new InstagramUpload();
 $obj->Login($username, $password);
-$obj->UploadPhoto($nama_foto, $caption);
+$obj->UploadPhoto($photo_name, $caption);
 
 
  	
